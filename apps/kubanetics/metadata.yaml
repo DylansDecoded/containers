@@ -1,5 +1,5 @@
 ---
-app: fstrim
+app: kubanetics
 semver: true
 channels:
   - name: stable
